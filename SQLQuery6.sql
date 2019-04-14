@@ -1,0 +1,1 @@
+SELECT *FROM Calendar WHERE Month LIKE 'kwi%'
